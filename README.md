@@ -17,6 +17,7 @@ Interested in data engineering and data science.
 
 <sub> 
 📄: https://walydalami09.github.io/Resume</sub>
+
 ---
 
 ## 🛠 Tech Stack
