@@ -1,4 +1,4 @@
-# Hi 👋, I'm Walyd
+<h1 align="center">Hi 👋, I'm Walyd</h1>
 
 Engineering student at ISEP, currently working at the Conseil Départemental de la Seine-Saint-Denis.
 
