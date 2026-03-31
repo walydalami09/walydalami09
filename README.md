@@ -2,7 +2,7 @@
 
 Engineering student at ISEP, currently working at the Conseil Départemental de la Seine-Saint-Denis.
 
-Interested in data engineering and data science.
+Working on data engineering and data science projects.
 
 ---
 
