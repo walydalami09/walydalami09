@@ -8,11 +8,11 @@ Interested in data engineering and data science.
 
 ## Contact
 
-📫 LinkedIn  
-https://linkedin.com/in/walydalami
+## Contact
 
-💻 GitHub  
-https://github.com/walydalami09
+📫 Please reach me: [LinkedIn](https://linkedin.com/in/walydalami)
+
+💻 GitHub: [walydalami09](https://github.com/walydalami09)
 
 ---
 
