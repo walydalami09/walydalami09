@@ -8,12 +8,14 @@ Interested in data engineering and data science.
 
 ## Contact
 
-## Contact
-
 📫 Please reach me: [LinkedIn](https://linkedin.com/in/walydalami)
 
 💻 GitHub: [walydalami09](https://github.com/walydalami09)
 
+
+## My resume
+
+📄 [resume](https://walydalami09.github.io/Resume)
 ---
 
 ## 🛠 Tech Stack
