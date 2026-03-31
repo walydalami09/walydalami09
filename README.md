@@ -1,9 +1,8 @@
 # Hi 👋, I'm Walyd
 
-Engineering student at ISEP and working in data at the Conseil Départemental de la Seine-Saint-Denis.
+Engineering student at ISEP, working at the Conseil Départemental de la Seine-Saint-Denis.
 
-Working on data engineering and machine learning projects.
-
+Projects in data engineering and machine learning.
 ---
 
 ## Contact
