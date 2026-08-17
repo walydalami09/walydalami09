@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Walyd</h1>
 
-Engineering student at ISEP, currently working at the Conseil Départemental de la Seine-Saint-Denis.
+Engineering student at ISEP, currently working within the IT Department of the Conseil Départemental de la Seine-Saint-Denis.
 
-Working on data engineering and data science projects.
+Contributing to projects across software development, data, automation, system integration, DevOps and IT operations.
 
 ---
 
